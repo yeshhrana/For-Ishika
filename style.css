@@ -95,10 +95,3 @@ body::after
   color: #fff;
   font-weight: 300;
 }
-.container .card .content h4
-{
-  text-align: left;
-  font-size: 1.2em;
-  color: #fff;
-  z-index: 1;
-}
